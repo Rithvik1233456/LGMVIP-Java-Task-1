@@ -1,1 +1,1 @@
-# LGMVIP-Java-Task-1
+A sophisticated Java-based currency converter empowers users to seamlessly convert between a wide range of global currencies, including popular options like USD (United States Dollar), INR (Indian Rupee), GBP (British Pound Sterling), AUD (Australian Dollar), JPY (Japanese Yen), and EUR (Euro). With an intuitive user interface built using Swing and AWT, this application offers a seamless experience for users to enter the desired amount in one currency and instantly obtain the equivalent value in another. 
